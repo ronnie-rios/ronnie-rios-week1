@@ -57,9 +57,13 @@ p {
     position: relative;
 }
 
-/*.services-content {
-    float: left;
-} */
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+    flex: 0 0 auto;
+
+}
 .content-services {
     margin-bottom: 20px;
     padding: 50px;
@@ -67,14 +71,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-    
-}
-
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-    
+    flex: 0 0 auto;
 }
 
 .content-services img {
@@ -167,6 +164,10 @@ p {
 .benefits h3 {
     margin-bottom: 10px;
     text-align: center;
+}
+
+.benefits div {
+    margin-bottom: 30px;
 }
 /*
 .benefit-brand h3 {
