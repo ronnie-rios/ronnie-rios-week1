@@ -1,7 +1,7 @@
 # Code Refactor Starter Code
 ## README
 
-Horiseon Search Engine Optimization landing page featuresa descpriptions on what the companany does and insight as the services it can provide. This page features accessbility to be easily found when searching for the company and enable all people have ease of access.
+Horiseon Search Engine Optimization landing page features descriptions on what the companany does and insight as the services it can provide. This page features accessbility to be easily found when searching for the company and enable people can access the site.
 
 ## FILES
 
